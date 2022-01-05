@@ -1,13 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author yoonseoha
- */
-public class 가운데글자가져오기 {
-    
+class Solution {
+    public String solution(String s) {
+        
+        int len = s.length();
+        String answer = "";
+        
+        if(len % 2 != 0){
+            return s.substring(len/2, len/2+1);
+        }else{
+            return s.substring(len/2-1, len/2+1);
+        }
+        
+    }
 }

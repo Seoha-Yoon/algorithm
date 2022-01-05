@@ -1,13 +1,21 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+import java.util.*;
 
-/**
- *
- * @author yoonseoha
- */
-public class 문자열내마음대로정렬하기 {
-    
+class Solution {
+    public String[] solution(String[] strings, int n) {
+        String[] answer = {};
+        
+        Arrays.sort(strings, new Comparator<String>(){
+            public int compare(String s1, String s2){
+                char c1 = s1.charAt(n);
+                char c2 = s2.charAt(n);
+                
+                if(c1 - c2 == 0)
+                    return s1.compareTo(s2);
+                
+                return c1-c2;
+            }
+        });
+        
+        return strings;
+    }
 }

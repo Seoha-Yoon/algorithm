@@ -1,13 +1,30 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+import java.util.HashSet;
+import java.util.Arrays;
 
-/**
- *
- * @author yoonseoha
- */
-public class 두개뽑아서더하기 {
-    
+class Solution {
+    public int[] solution(int[] numbers) {
+        
+        // 더한 수를 저장할 Set
+        HashSet<Integer> set = new HashSet<>();
+        
+        for(int i=0; i<numbers.length-1; i++){
+            int addNum = 0;
+            for(int j=i+1; j<numbers.length; j++){
+                addNum = numbers[i] + numbers[j];
+                set.add(addNum);
+            }
+        }
+        
+        // set을 배열로
+        Integer[] arr = set.toArray(new Integer[0]);
+        Arrays.sort(arr);
+        
+        int[] answer = new int[arr.length];
+        
+        for(int i=0; i<arr.length; i++){
+            answer[i] = arr[i];
+        }
+        
+        return answer;
+    }
 }
