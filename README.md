@@ -6,7 +6,7 @@
 |Lv.1|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/신규아이디추천.java)|
 |Lv.1|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/폰켓몬.java)|
 |Lv.1|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/실패율.java)|
-|Lv.1|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/빔밀지도.java)|
+|Lv.1|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/비밀지도.java)|
 |Lv.1|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/문자열내마음대로정렬하기.java)|
 |Lv.1|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/같은숫자는싫어.java)|
 |Lv.1|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/가운데글자가져오기.java)|
