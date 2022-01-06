@@ -13,4 +13,7 @@
 |Lv.1|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/두개뽑아서더하기.java)|
 |Lv.1|[수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/수박수.java)|
 |Lv.1|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/자연수뒤집어배열로만들기.java)|
+|Lv.1|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/약수의개수와덧셈.java)|
+|Lv.1|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/삼진법뒤집기.java)|
+|Lv.1|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/예산.java)|
 |Lv.2|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/올바른괄호.java)|
