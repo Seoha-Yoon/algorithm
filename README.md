@@ -18,7 +18,7 @@
 |Lv.1|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/예산.java)|
 |Lv.1|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/로또의최고순위와최저순위.java)|
 |Lv.1|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/숫자문자열과영단어.java)|
-|Lv.1|[키패드누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/키패드누르기.java)|
+|Lv.1|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/키패드누르기.java)|
 |Lv.1|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/크레인인형뽑기게임.java)|
 |Lv.1|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/음양더하기.java)|
 |Lv.1|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/내적.java)|
@@ -31,5 +31,19 @@
 |Lv.2|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/기능개발.java)|
 |Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/타겟넘버.java)|
 |Lv.2|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/짝지어제거하기.java)|
+|Lv.2|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/수식최대화.java)|
+|Lv.2|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/튜플.java)|
+|Lv.2|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/전화번호목록.java)|
+|Lv.2|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/가장큰수.java)|
+|Lv.2|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/소수찾기.java)|
+|Lv.2|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/위장.java)|
+|Lv.2|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/H_Index.java)|
+|Lv.2|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/카펫.java)|
+|Lv.2|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/큰수만들기.java)|
 |Lv.3|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/N으로표현.java)|
 |Lv.3|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/입국심사.java)|
+|Lv.3|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/정수삼각형.java)|
+|Lv.3|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/네트워크.java)|
+|Lv.3|[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/등굣길.java)|
+|Lv.3|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/단어변환.java)|
+|Lv.3|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/경주로건설.java)|
