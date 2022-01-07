@@ -43,6 +43,7 @@
 |Lv.2|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/카펫.java)|
 |Lv.2|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/큰수만들기.java)|
 |Lv.2|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/문자열압축.java)|
+|Lv.2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/오픈채팅방.java)|
 |Lv.3|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/N으로표현.java)|
 |Lv.3|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/입국심사.java)|
 |Lv.3|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/정수삼각형.java)|
