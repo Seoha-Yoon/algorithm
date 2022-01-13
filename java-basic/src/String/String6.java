@@ -8,8 +8,7 @@ ksekkset
 
 kset
  */
-
-// 6. 중복문자제거
+// 6. 중복문자제거 (HashSet 사용)
 public class String6 {
     public String solution(String str){
         String answer = "";

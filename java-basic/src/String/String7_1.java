@@ -7,21 +7,20 @@ gooG
 YES
  */
 
-// 7. 회문문자열
-public class String7 {
+// 7. 회문문자열 (StringBuilder 사용)
+public class String7_1 {
     public String solution(String str){
-        String answer = "YES";
-        str = str.toLowerCase();
-        char[] arr = str.toCharArray();
+        String answer = "NO";
+        String tmp = new StringBuilder(str).reverse().toString();
 
-        for(int i=0; i<arr.length/2; i++)
-            if(arr[i]!=arr[arr.length-i-1]) return "NO";
+        // 대소문자 구별X
+        if(str.equalsIgnoreCase(tmp)) answer = "YES";
 
         return answer;
     }
 
     public static void main(String[] args){
-        String7 T = new String7();
+        String7_1 T = new String7_1();
         Scanner kb = new Scanner(System.in);
 
         String str = kb.next(); // 문자열 읽기

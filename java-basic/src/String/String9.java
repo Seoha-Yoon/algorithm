@@ -8,7 +8,6 @@ g0en2T0s8eSoft
 
 208
  */
-
 public class String9 {
     public int solution(String str){
         String answer = "";
@@ -18,9 +17,10 @@ public class String9 {
 
         for (int i=0; i<arr.length;i++){
             int n = arr[i] - '0';
+
+            // Character.isDigit(arr[i])
             if(n>=0 && n<=9) answer += arr[i];
         }
-
         return Integer.parseInt(answer);
     }
 

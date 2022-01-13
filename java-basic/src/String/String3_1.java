@@ -2,7 +2,7 @@ package String;
 
 import java.util.Scanner;
 
-// 3. 문장 속 단어(indexOf, substring 사용)
+// 3. 문장 속 단어(indexOf(), substring() 사용)
 public class String3_1{
     public String solution(String str){
         String answer = "";

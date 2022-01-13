@@ -3,7 +3,7 @@ package String;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// 4. 단어 뒤집기 - 직접 swap 함수 짜기 (while)
+// 4. 단어 뒤집기 - 직접 swap 함수 짜기 (while 사용)
 public class String4_2 {
     public ArrayList<String> solution(int n, String[] str){
         ArrayList<String> answer = new ArrayList<>();

@@ -7,7 +7,6 @@ found7, time: study; Yduts; emit, 7Dnuof
 
 YES
  */
-
 // 8. 유효한 팰린드롬
 public class String8 {
     public String solution(String str){

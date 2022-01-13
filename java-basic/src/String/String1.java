@@ -3,6 +3,12 @@ package String;
 import java.util.Scanner;
 
 // 1. 문자 찾기
+/*
+Computercooler
+c
+
+2
+ */
 public class String1 {
     public int solution(String str, char c){
         int answer=0;

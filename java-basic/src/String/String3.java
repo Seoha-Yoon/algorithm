@@ -3,6 +3,11 @@ package String;
 import java.util.Scanner;
 
 // 3. 문장 속 단어(split)사용
+/*
+it is time to study
+
+study
+ */
 public class String3 {
     public String solution(String str){
         String answer = "";
