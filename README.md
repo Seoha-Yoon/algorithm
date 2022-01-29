@@ -1,4 +1,4 @@
-# Programmers
+## Programmers
 
 |난이도|문제|풀이|
 |---|---|---|
@@ -52,3 +52,26 @@
 |Lv.3|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/단어변환.java)|
 |Lv.3|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/경주로건설.java)|
 |Lv.4|[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv4/징검다리.java)|
+
+## SWEA
+난이도|문제|알고리즘|풀이
+:---:|:---|:---:|:---:
+D2|1970. 쉬운 거스름돈|재귀, 완전탐색|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D2/swea_1970.java)
+D2|1288. 새로운 불면증 치료법|비트 연산|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D2/swea_1288.java)
+D3|3304. 최장 공통 부분 수열|LCS(공통부분수열)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D3/swea_3304.java)
+D3|1244. 최대 상금|DFS, 완전탐색|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D3/swea_1244.java)
+D3|3282. 0/1 Knapsack|DP|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D3/swea_3282.java)
+D3|1230. 암호문3|Linked List|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D3/swea_1230.java)
+D3|10726. 이진수 표현|비트 연산|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D3/swea_10726.java)
+D4|1232. 사칙연산|Tree, 후위순회|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D4/swea_1232.java)
+D4|1233. 사칙연산 유효성 검사|Tree, 중위순회|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D4/swea_1233.java)
+D4|1231. 중위순회|Tree, 중위순회|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D4/swea_1231.java)
+D4|1251. 하나로|MST, Kruskal|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D4/swea_1251.java)
+D4|1868. 파핑파핑 지뢰찾기|BFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D4/swea_1868.java)
+D4|7701. 염라대왕의 이름 정렬|Sort|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D4/swea_7701.java)
+D4|4408. 자기 방으로 돌아가기|DP|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D4/swea_4408.java)
+D4|3316. 동아리실 관리하기|비트 연산, DP|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D4/swea_3316.java)
+D5|1248. 공통조상|LCA|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D5/swea_1248.java)
+D5|10507. 영어 공부|투포인터|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D5/swea_10507.java)
+D6|1855. 영준이의 진짜 BFS|LCA(공통조상)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D6/swea_1855.java)
+-|1767. 파핑파핑 지뢰찾기|BFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/swea_1767.java)
