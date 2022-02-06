@@ -77,4 +77,4 @@ D4|3000. 중간값 구하기|Min Heap, Max Heap|[JAVA](https://github.com/Seoha-
 D5|1248. 공통조상|LCA|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D5/swea_1248.java)
 D5|10507. 영어 공부|투포인터|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D5/swea_10507.java)
 D6|1855. 영준이의 진짜 BFS|LCA(공통조상)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D6/swea_1855.java)
--|1767. 파핑파핑 지뢰찾기|BFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/swea_1767.java)
+-|1767. 프로세서 연결하기|BFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/swea_1767.java)
