@@ -31,24 +31,24 @@
 |Lv.1|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/나머지가1이되는수.java)|
 
 ### lv2.
-|난이도|문제|풀이|
+|난이도|문제|알고리즘|풀이|
 |---|---|---|
-|Lv.2|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/올바른괄호.java)|
-|Lv.2|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/기능개발.java)|
-|Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/타겟넘버.java)|
-|Lv.2|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/짝지어제거하기.java)|
-|Lv.2|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/수식최대화.java)|
-|Lv.2|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/튜플.java)|
-|Lv.2|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/전화번호목록.java)|
-|Lv.2|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/가장큰수.java)|
-|Lv.2|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/소수찾기.java)|
-|Lv.2|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/위장.java)|
-|Lv.2|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/H_Index.java)|
-|Lv.2|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/카펫.java)|
-|Lv.2|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/큰수만들기.java)|
-|Lv.2|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/문자열압축.java)|
-|Lv.2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/오픈채팅방.java)|
-|Lv.2|[카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/컬러링북.java)|
+|Lv.2|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/올바른괄호.java)|
+|Lv.2|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/기능개발.java)|
+|Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/타겟넘버.java)|
+|Lv.2|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/짝지어제거하기.java)|
+|Lv.2|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/수식최대화.java)|
+|Lv.2|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/튜플.java)|
+|Lv.2|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/전화번호목록.java)|
+|Lv.2|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/가장큰수.java)|
+|Lv.2|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/소수찾기.java)|
+|Lv.2|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/위장.java)|
+|Lv.2|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/H_Index.java)|
+|Lv.2|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/카펫.java)|
+|Lv.2|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/큰수만들기.java)|
+|Lv.2|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/문자열압축.java)|
+|Lv.2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/오픈채팅방.java)|
+|Lv.2|[카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)|DFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/컬러링북.java)|
 
 ### lv3.
 |난이도|문제|풀이|
