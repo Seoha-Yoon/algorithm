@@ -1,5 +1,5 @@
 ## Programmers
-
+### lv1.
 |난이도|문제|풀이|
 |---|---|---|
 |Lv.1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/없는숫자더하기.java)|
@@ -29,6 +29,10 @@
 |Lv.1|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/체육복.java)|
 |Lv.1|[최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/최소직사각형.java)|
 |Lv.1|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/나머지가1이되는수.java)|
+
+### lv2.
+|난이도|문제|풀이|
+|---|---|---|
 |Lv.2|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/올바른괄호.java)|
 |Lv.2|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/기능개발.java)|
 |Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/타겟넘버.java)|
@@ -44,6 +48,11 @@
 |Lv.2|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/큰수만들기.java)|
 |Lv.2|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/문자열압축.java)|
 |Lv.2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/오픈채팅방.java)|
+|Lv.2|[카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/컬러링북.java)|
+
+### lv3.
+|난이도|문제|풀이|
+|---|---|---|
 |Lv.3|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/N으로표현.java)|
 |Lv.3|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/입국심사.java)|
 |Lv.3|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/정수삼각형.java)|
@@ -51,7 +60,12 @@
 |Lv.3|[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/등굣길.java)|
 |Lv.3|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/단어변환.java)|
 |Lv.3|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/경주로건설.java)|
+
+### lv4.
+|난이도|문제|풀이|
+|---|---|---|
 |Lv.4|[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv4/징검다리.java)|
+
 
 ## SWEA
 난이도|문제|알고리즘|풀이
