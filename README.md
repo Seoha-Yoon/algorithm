@@ -32,7 +32,7 @@
 
 ### lv2.
 |난이도|문제|알고리즘|풀이|
-|---|---|---|
+|---|---|:---:|---|
 |Lv.2|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/올바른괄호.java)|
 |Lv.2|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/기능개발.java)|
 |Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/타겟넘버.java)|
