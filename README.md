@@ -51,15 +51,16 @@
 |Lv.2|[카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)|DFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/컬러링북.java)|
 
 ### lv3.
-|난이도|문제|풀이|
-|---|---|---|
-|Lv.3|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/N으로표현.java)|
-|Lv.3|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/입국심사.java)|
-|Lv.3|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/정수삼각형.java)|
-|Lv.3|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/네트워크.java)|
-|Lv.3|[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/등굣길.java)|
-|Lv.3|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/단어변환.java)|
-|Lv.3|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/경주로건설.java)|
+|난이도|문제|알고리즘|풀이|
+|---|---|:---:|---|
+|Lv.3|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/N으로표현.java)|
+|Lv.3|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/입국심사.java)|
+|Lv.3|[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/정수삼각형.java)|
+|Lv.3|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/네트워크.java)|
+|Lv.3|[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/등굣길.java)|
+|Lv.3|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/단어변환.java)|
+|Lv.3|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/경주로건설.java)|
+|Lv.3|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164#)|DFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/여행경로.java)|
 
 ### lv4.
 |난이도|문제|풀이|
