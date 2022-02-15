@@ -62,6 +62,7 @@
 |Lv.3|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/단어변환.java)|
 |Lv.3|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/경주로건설.java)|
 |Lv.3|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164#)|DFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/여행경로.java)|
+|Lv.3|베스트앨범|HashMap|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/베스트앨범.java)|
 
 ### lv4.
 |난이도|문제|풀이|
