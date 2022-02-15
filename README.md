@@ -49,6 +49,7 @@
 |Lv.2|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/문자열압축.java)|
 |Lv.2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)||[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/오픈채팅방.java)|
 |Lv.2|[카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)|DFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/컬러링북.java)|
+|Lv.2|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|Priority Queue|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/더맵게.java)|
 
 ### lv3.
 |난이도|문제|알고리즘|풀이|
