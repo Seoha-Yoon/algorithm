@@ -29,6 +29,8 @@
 |Lv.1|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/체육복.java)|
 |Lv.1|[최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/최소직사각형.java)|
 |Lv.1|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/나머지가1이되는수.java)|
+|Lv.1|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/신고결과받기.java)|
+|Lv.1|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587#)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv1/프린터.java)|
 
 ### lv2.
 |난이도|문제|알고리즘|풀이|
