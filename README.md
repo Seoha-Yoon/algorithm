@@ -102,3 +102,14 @@ D5|9999. 광고 시간 정하기|Binary Search|[JAVA](https://github.com/Seoha-Y
 D6|1855. 영준이의 진짜 BFS|LCA(공통조상)|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D6/swea_1855.java)
 D6|10806. 수 만들기|PQ|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D6/swea_10806.java)
 -|1767. 프로세서 연결하기|BFS|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/swea_1767.java)
+
+
+
+# BOJ - 단계별 문제
+
+| 단계 | 제목              |    문제    |
+| :--- | ----------------- | :--------: |
+| 1    | 입출력과 사칙연산 | [1단계]()  |
+| 10   | 재귀              | [10단계]() |
+| 11   | 브루트 포스       | [11단계]() |
+
