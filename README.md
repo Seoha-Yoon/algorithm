@@ -105,7 +105,7 @@ D6|10806. 수 만들기|PQ|[JAVA](https://github.com/Seoha-Yoon/algorithm/blob/m
 
 
 
-# BOJ - 단계별 문제
+## BOJ - 단계별 문제
 
 | 단계 | 제목              |    문제    |
 | :--- | ----------------- | :--------: |
