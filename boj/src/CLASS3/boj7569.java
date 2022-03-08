@@ -46,18 +46,8 @@ public class boj7569 {
             }
         }
 
-
         int day = 0;
-        for (int i = 0; i <M; i++) {
-            for (int j = 0; j < N; j++) {
-                for (int k = 0; k < H; k++) {
-                    // 익힌 상황 업데이트
-                    if (box[i][j][k] == 1 && !visited[i][j][k]) {
-                        progress(i, j, k);
-                    }
-                }
-            }
-        }
+        progress();
 
         for (int i = 0; i <M; i++) {
             for (int j = 0; j < N; j++) {
@@ -74,26 +64,36 @@ public class boj7569 {
         System.out.println(day);
     }
 
-    private static void progress(int m, int n, int h) {
+    private static void progress() {
         Queue<Point> queue = new LinkedList<>();
-        queue.add(new Point(m , n, h));
-        visited[m][n][h] = true;
+
+        for (int i = 0; i <M; i++) {
+            for (int j = 0; j < N; j++) {
+                for (int k = 0; k < H; k++) {
+                    // 익힌 상황 업데이트
+                    if (box[i][j][k] == 1 && !visited[i][j][k]) {
+                        queue.add(new Point(i, j, k));
+                        visited[i][j][k]= true;
+                    }
+                }
+            }
+        }
 
         while (!queue.isEmpty()){
             Point cur = queue.poll();
 
-            for(int d=0; d<6; d++){
+            for(int d=0; d<6; d++) {
                 int xx = cur.x + dx[d];
                 int yy = cur.y + dy[d];
                 int zz = cur.z + dz[d];
 
-                if(xx<0 || yy<0 || zz<0 || xx>=M || yy>=N || zz>=H) continue;
+                if (xx < 0 || yy < 0 || zz < 0 || xx >= M || yy >= N || zz >= H) continue;
 
-                if(!visited[xx][yy][zz] && box[xx][yy][zz]==0){
+                if (!visited[xx][yy][zz] && box[xx][yy][zz] == 0) {
                     visited[xx][yy][zz] = true;
                     box[xx][yy][zz] = 1;
                     queue.add(new Point(xx, yy, zz));
-                    cntDate[xx][yy][zz] = cntDate[cur.x][cur.y][cur.z]+1;
+                    cntDate[xx][yy][zz] = cntDate[cur.x][cur.y][cur.z] + 1;
                 }
             }
         }
