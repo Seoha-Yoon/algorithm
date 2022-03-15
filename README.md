@@ -56,7 +56,7 @@
 | Lv.2 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)    | DFS            | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/컬러링북.java)     |
 | Lv.2 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)          | Priority Queue | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/더맵게.java)      |
 | Lv.2 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) | ArrayList      | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/거리두기확인하기.java) |
-|      | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)        | 조합             | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/단체사진찍기.java)   |
+| Lv.2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)        | 조합             | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/단체사진찍기.java)   |
 
 ### lv3.
 
@@ -78,6 +78,10 @@
 | 난이도  | 문제                                                               | 풀이                                                                                  |
 | ---- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Lv.4 | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv4/징검다리.java) |
+
+### SQL
+
+
 
 ## SWEA
 
@@ -109,10 +113,60 @@
 | D6  | 10806. 수 만들기       | PQ                     | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/D6/swea_10806.java)    |
 | -   | 1767. 프로세서 연결하기    | BFS                    | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/swea/swea_1767.java)        |
 
-## BOJ - 단계별 문제
+## BOJ
 
-| 단계  | 제목        | 문제       |
-|:--- | --------- |:--------:|
-| 1   | 입출력과 사칙연산 | [1단계]()  |
-| 10  | 재귀        | [10단계]() |
-| 11  | 브루트 포스    | [11단계]() |
+### Class3
+
+브 :black_circle: 실 :white_circle: 골 :large_blue_circle:
+
+| 난이도                 | 문제                                                                        | 알고리즘                     | 풀이                                                                                                                                                                            |
+|:-------------------:|:------------------------------------------------------------------------- |:------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :white_circle:      | [1003. 피보나치 함수](https://www.acmicpc.net/problem/1003)                     | DP                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/동적계획법/boj1003.java)                                                                                           |
+| :white_circle:      | [1012. 유기농 배추](https://solved.ac/search?query=in_class:3%20solved_by:$me) | 그래프, DFS                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1012.java)                                                                                          |
+| :white_circle:      | [1074. Z](https://solved.ac/search?query=in_class:3%20solved_by:$me)      | 재귀                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1074.java)                                                                                          |
+| :large_blue_circle: | [1107. 리모컨](https://www.acmicpc.net/problem/1107)                         | 브루트 포스, 구현               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1170.java)                                                                                          |
+| :white_circle:      | [1260. DFS와 BFS](https://www.acmicpc.net/problem/1260)                    | DFS, BFS                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1260.java)                                                                                          |
+| :white_circle:      | [1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)              | 그래프, Dijkstra, *플로이드-와샬* | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1389.java)                                                                                          |
+| :white_circle:      | [1463. 1로 만들기](https://www.acmicpc.net/problem/1463)                      | DP                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/동적계획법/boj1463.java)                                                                                           |
+| :white_circle:      | [1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)                     | 문자열, 그리디                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1541.java)                                                                                          |
+| :white_circle:      | [1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)             | HashMap                  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1620.java)                                                                                          |
+| :white_circle:      | [1676. 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)                  | 수학                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1676.java)                                                                                          |
+| :white_circle:      | [1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)                        | 그래프, BFS, 최단거리           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1697.java)                                                                                          |
+| :white_circle:      | [1764. 듣보잡](https://www.acmicpc.net/problem/1764)                         | HashSet                  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1764.java)                                                                                          |
+| :white_circle:      | [1780. 종이의 개수](https://www.acmicpc.net/problem/1780)                      | 재귀                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1780.java)                                                                                          |
+| :white_circle:      | [1927. 최소 힙](https://www.acmicpc.net/problem/1927)                        | Priority Queue           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1927.java)                                                                                          |
+| :white_circle:      | [1931. 회의실 배정](https://www.acmicpc.net/problem/1931)                      | 그리디, 정렬                  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1931.java)                                                                                          |
+| :white_circle:      | [1992. 쿼드트리](https://www.acmicpc.net/problem/1992)                        | 재귀                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj1992.java)                                                                                          |
+| :white_circle:      | [2178. 미로 탐색](https://www.acmicpc.net/problem/2178)                       | 그래프, BFS, 최단거리           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj2178.java)                                                                                          |
+| :white_circle:      | [2579. 계단 오르기](https://www.acmicpc.net/problem/2579)                      | DP                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj2597.java)                                                                                          |
+| :white_circle:      | [2606. 바이러스](https://solved.ac/search?query=in_class:3%20solved_by:$me)   | 그래프, DFS                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj2606.java)                                                                                          |
+| :white_circle:      | [2630. 색종이 만들기](https://www.acmicpc.net/problem/2630)                     | 재귀                       | [SOL1](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj2630.java), [SOL2](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj2630a.java) |
+| :white_circle:      | [2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)                     | 그래프, DFS                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj2667.java)                                                                                          |
+| :large_blue_circle: | [5430. AC](https://www.acmicpc.net/problem/5430)                          | DEQUE                    | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj5430.java)                                                                                          |
+| :white_circle:      | [6064. 카잉 달력](https://www.acmicpc.net/problem/6064)                       | 수학                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj6064.java)                                                                                          |
+| :large_blue_circle: | [7569. 토마토 3차원](https://www.acmicpc.net/problem/7569)                     | 그래프, BFS, 최단거리           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj7569.java)                                                                                          |
+| :large_blue_circle: | [7576. 토마토 2차원](https://www.acmicpc.net/problem/7576)                     | 그래프, BFS, 최단거리           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj7576.java)                                                                                          |
+| :large_blue_circle: | [7662. 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)                   | Priority Queue, HashMap  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj7662.java)                                                                                          |
+| :white_circle:      | [9095. 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)                 | DP, *순열? 조합?*            | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj9095.java)                                                                                          |
+| :white_circle:      | [9375. 패션왕 신해빈](https://www.acmicpc.net/problem/9375)                     | HashMap, 조합              | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj9375.java)                                                                                          |
+| :white_circle:      | [9461. 파도반 수열](https://www.acmicpc.net/problem/9461)                      | DP                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/동적계획법/boj9461.java)                                                                                           |
+| :large_blue_circle: | [10026. 적록색약](https://www.acmicpc.net/problem/10026)                      | 그래프, DFS                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj10026.java)                                                                                         |
+| :white_circle:      | [11047. 동전 0](https://www.acmicpc.net/problem/11047)                      | 그리디, 조합                  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11047.java)                                                                                         |
+| :white_circle:      | [11279. 최대 힙](https://www.acmicpc.net/problem/11279)                      | Priority Queue           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11279.java)                                                                                         |
+| :white_circle:      | [11286. 절댓값 힙](https://www.acmicpc.net/problem/11286)                     | Priority Queue           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11286.java)                                                                                         |
+| :white_circle:      | [11399. ATM](https://www.acmicpc.net/problem/11399)                       | 그리디, 정렬                  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11399.java)                                                                                         |
+| :white_circle:      | [11403. 경로 찾기](https://www.acmicpc.net/problem/11403)                     | 그래프, DFS, *플로이드-와샬*      | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11403.java)                                                                                         |
+| :white_circle:      | [11659. 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)                | 누적합                      | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11659.java)                                                                                         |
+| :white_circle:      | [11723. 집합](https://www.acmicpc.net/problem/11723)                        | 구현, HashSet              | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11723.java)                                                                                         |
+| :white_circle:      | [11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724)                 | 그래프, DFS                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11724.java)                                                                                         |
+| :white_circle:      | [11726. 2xn 타일링](https://www.acmicpc.net/problem/11726)                   | DP                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11726.java)                                                                                         |
+| :white_circle:      | [11727. 2xn 타일링 2](https://www.acmicpc.net/problem/11727)                 | DP                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj11727.java)                                                                                         |
+| :large_blue_circle: | [16236. 아기 상어](https://www.acmicpc.net/problem/16236)                     | 그래프, BFS, BFS using PQ   | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/16236.java)                                                                                            |
+| :white_circle:      | [16928. 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)                 | 구현, 그래프, BFS             | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj16928.java)                                                                                         |
+| :white_circle:      | [17219. 비밀번호 찾기](https://www.acmicpc.net/problem/17219)                   | HashMap                  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj17219.java)                                                                                         |
+| :white_circle:      | [17626. Four Squares](https://www.acmicpc.net/problem/17626)              | DP                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj17626.java)                                                                                         |
+| :white_circle:      | [18870. 좌표 압축](https://www.acmicpc.net/problem/18870)                     | 정렬                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj18870.java)                                                                                         |
+|                     |                                                                           |                          |                                                                                                                                                                               |
+|                     |                                                                           |                          |                                                                                                                                                                               |
+
+### 단계별
