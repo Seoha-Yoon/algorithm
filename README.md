@@ -81,8 +81,6 @@
 
 ### SQL
 
-
-
 ## SWEA
 
 | 난이도 | 문제                 | 알고리즘                   | 풀이                                                                                   |
@@ -166,7 +164,8 @@
 | :white_circle:      | [17219. 비밀번호 찾기](https://www.acmicpc.net/problem/17219)                   | HashMap                  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj17219.java)                                                                                         |
 | :white_circle:      | [17626. Four Squares](https://www.acmicpc.net/problem/17626)              | DP                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj17626.java)                                                                                         |
 | :white_circle:      | [18870. 좌표 압축](https://www.acmicpc.net/problem/18870)                     | 정렬                       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj18870.java)                                                                                         |
-|                     |                                                                           |                          |                                                                                                                                                                               |
-|                     |                                                                           |                          |                                                                                                                                                                               |
+| :large_blue_circle: | [9019.DSLR](https://www.acmicpc.net/problem/9019)                         | 구현, BFS                  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj9019.java)                                                                                          |
+|                     | [5525. IOIOI](https://www.acmicpc.net/problem/5525)                       | 문자열, KMP, *Rabin-Karp*   | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj5525.java)                                                                                          |
+| :large_blue_circle: | [14500. 테트로미노](https://www.acmicpc.net/problem/14500)                     | 완전탐색, 백트래킹               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj14500.java)                                                                                         |
 
 ### 단계별
