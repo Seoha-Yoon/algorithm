@@ -180,7 +180,7 @@
 | :white_circle: | [15657. N과 M (8)](https://www.acmicpc.net/problem/15657)  | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15657.java) |
 | :white_circle: | [15663. N과 M (9)](https://www.acmicpc.net/problem/15663)  | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15663.java) |
 | :white_circle: | [15666. N과 M (12)](https://www.acmicpc.net/problem/15666) | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15666.java) |
-| :white_circle: | [1932. RGB거리](https://www.acmicpc.net/problem/1149)      | DP   | [SOL]()                                                                               |
+| :white_circle: | [1932. RGB거리](https://www.acmicpc.net/problem/1149)      | DP   | [SOL]()                                                                               |
 | :white_circle: | [1149. 정수 삼각형](https://www.acmicpc.net/problem/1932)      | DP   | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/동적계획법/boj1149.java)   |
 
 ### 
