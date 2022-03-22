@@ -168,20 +168,21 @@
 | :white_circle:      | [5525. IOIOI](https://www.acmicpc.net/problem/5525)                       | 문자열, KMP, *Rabin-Karp*   | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj5525.java)                                                                                          |
 | :large_blue_circle: | [14500. 테트로미노](https://www.acmicpc.net/problem/14500)                     | 완전탐색, 백트래킹               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS3/boj14500.java)                                                                                         |
 
-
-
 ### Class4
 
-| 난이도            | 문제                                                        | 알고리즘 | 풀이                                                                                    |
-|:--------------:| --------------------------------------------------------- |:----:|:-------------------------------------------------------------------------------------:|
-| :white_circle: | [15650. N과 M(2)](https://www.acmicpc.net/problem/15650)   | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15650.java) |
-| :white_circle: | [15652. N과 M(4)](https://www.acmicpc.net/problem/15652)   | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15652.java) |
-| :white_circle: | [15654. N과 M (5)](https://www.acmicpc.net/problem/15654)  | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15654.java) |
-| :white_circle: | [15657. N과 M (8)](https://www.acmicpc.net/problem/15657)  | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15657.java) |
-| :white_circle: | [15663. N과 M (9)](https://www.acmicpc.net/problem/15663)  | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15663.java) |
-| :white_circle: | [15666. N과 M (12)](https://www.acmicpc.net/problem/15666) | 백트래킹 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15666.java) |
-| :white_circle: | [1932. RGB거리](https://www.acmicpc.net/problem/1149)      | DP   | [SOL]()                                                                               |
-| :white_circle: | [1149. 정수 삼각형](https://www.acmicpc.net/problem/1932)      | DP   | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/동적계획법/boj1149.java)   |
+| 난이도                 | 문제                                                        | 알고리즘        | 풀이                                                                                    |
+|:-------------------:| --------------------------------------------------------- |:-----------:|:-------------------------------------------------------------------------------------:|
+| :white_circle:      | [15650. N과 M(2)](https://www.acmicpc.net/problem/15650)   | 백트래킹        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15650.java) |
+| :white_circle:      | [15652. N과 M(4)](https://www.acmicpc.net/problem/15652)   | 백트래킹        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15652.java) |
+| :white_circle:      | [15654. N과 M (5)](https://www.acmicpc.net/problem/15654)  | 백트래킹        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15654.java) |
+| :white_circle:      | [15657. N과 M (8)](https://www.acmicpc.net/problem/15657)  | 백트래킹        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15657.java) |
+| :white_circle:      | [15663. N과 M (9)](https://www.acmicpc.net/problem/15663)  | 백트래킹        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15663.java) |
+| :white_circle:      | [15666. N과 M (12)](https://www.acmicpc.net/problem/15666) | 백트래킹        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15666.java) |
+| :white_circle:      | [1932. RGB거리](https://www.acmicpc.net/problem/1149)       | DP          | [SOL]()                                                                               |
+| :white_circle:      | [1149. 정수 삼각형](https://www.acmicpc.net/problem/1932)      | DP          | https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/동적계획법/boj1149.java          |
+| :white_circle:      | [1692. 곱셈](https://www.acmicpc.net/problem/1629)          | 분할정복, 재귀    | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1692.java)  |
+| :white_circle:      | [1991. 트리 순회](https://www.acmicpc.net/problem/1991)       | Binary Tree | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1991.java)  |
+| :large_blue_circle: | [17144. 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  | 구현          | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj17144.java) |
 
 ### 
 
