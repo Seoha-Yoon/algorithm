@@ -185,6 +185,7 @@
 | :large_blue_circle: | [17144. 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  | 구현           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj17144.java) |
 | :large_blue_circle: | [1043. 거짓말](https://www.acmicpc.net/problem/1043)         | 그래프, HashSet | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1043.java)  |
 | :large_blue_circle: | [1167. 트리의 지름](https://www.acmicpc.net/problem/1167)      | 그래프, DFS     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1167.java)  |
+| :large_blue_circle: | [1238. 파티](https://www.acmicpc.net/problem/1238)          | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1238.java)  |
 
 ### 
 
