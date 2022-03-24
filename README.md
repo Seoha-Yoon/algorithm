@@ -186,6 +186,7 @@
 | :large_blue_circle: | [1043. 거짓말](https://www.acmicpc.net/problem/1043)         | 그래프, HashSet | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1043.java)  |
 | :large_blue_circle: | [1167. 트리의 지름](https://www.acmicpc.net/problem/1167)      | 그래프, DFS     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1167.java)  |
 | :large_blue_circle: | [1238. 파티](https://www.acmicpc.net/problem/1238)          | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1238.java)  |
+| :large_blue_circle: | [1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504)   |              | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1238.java)  |
 
 ### 
 
