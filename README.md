@@ -189,6 +189,7 @@
 | :large_blue_circle: | [1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504)   | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1238.java)  |
 | :large_blue_circle: | [1918. 후위 표기식](https://www.acmicpc.net/problem/1918)      | Stack        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1918.java)  |
 | :large_blue_circle: | [1753. 최단경로](https://www.acmicpc.net/problem/1753)        | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1753.java)  |
+| :large_blue_circle: | [1967. 트리의 지름](https://www.acmicpc.net/problem/1967)      | 그래프, DFS     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1967.java)  |
 | :large_blue_circle: | [1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)    | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1916.java)  |
 
 ### 
