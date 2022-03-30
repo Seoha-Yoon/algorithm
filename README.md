@@ -170,28 +170,30 @@
 
 ### Class4
 
-| 난이도                 | 문제                                                        | 알고리즘         | 풀이                                                                                    |
-|:-------------------:| --------------------------------------------------------- |:------------:|:-------------------------------------------------------------------------------------:|
-| :white_circle:      | [15650. N과 M(2)](https://www.acmicpc.net/problem/15650)   | 백트래킹         | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15650.java) |
-| :white_circle:      | [15652. N과 M(4)](https://www.acmicpc.net/problem/15652)   | 백트래킹         | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15652.java) |
-| :white_circle:      | [15654. N과 M (5)](https://www.acmicpc.net/problem/15654)  | 백트래킹         | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15654.java) |
-| :white_circle:      | [15657. N과 M (8)](https://www.acmicpc.net/problem/15657)  | 백트래킹         | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15657.java) |
-| :white_circle:      | [15663. N과 M (9)](https://www.acmicpc.net/problem/15663)  | 백트래킹         | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15663.java) |
-| :white_circle:      | [15666. N과 M (12)](https://www.acmicpc.net/problem/15666) | 백트래킹         | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15666.java) |
-| :white_circle:      | [1932. RGB거리](https://www.acmicpc.net/problem/1149)       | DP           | [SOL]()                                                                               |
-| :white_circle:      | [1149. 정수 삼각형](https://www.acmicpc.net/problem/1932)      | DP           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/동적계획법/boj1149.java)   |
-| :white_circle:      | [1692. 곱셈](https://www.acmicpc.net/problem/1629)          | 분할정복, 재귀     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1692.java)  |
-| :white_circle:      | [1991. 트리 순회](https://www.acmicpc.net/problem/1991)       | Binary Tree  | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1991.java)  |
-| :large_blue_circle: | [17144. 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  | 구현           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj17144.java) |
-| :large_blue_circle: | [1043. 거짓말](https://www.acmicpc.net/problem/1043)         | 그래프, HashSet | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1043.java)  |
-| :large_blue_circle: | [1167. 트리의 지름](https://www.acmicpc.net/problem/1167)      | 그래프, DFS     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1167.java)  |
-| :large_blue_circle: | [1238. 파티](https://www.acmicpc.net/problem/1238)          | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1238.java)  |
-| :large_blue_circle: | [1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504)   | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1238.java)  |
-| :large_blue_circle: | [1918. 후위 표기식](https://www.acmicpc.net/problem/1918)      | Stack        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1918.java)  |
-| :large_blue_circle: | [1753. 최단경로](https://www.acmicpc.net/problem/1753)        | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1753.java)  |
-| :large_blue_circle: | [1967. 트리의 지름](https://www.acmicpc.net/problem/1967)      | 그래프, DFS     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1967.java)  |
-| :large_blue_circle: | [1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)    | Dijkstra     | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1916.java)  |
-| :large_blue_circle: | [1865. 웜홀](https://www.acmicpc.net/problem/1865)          | Bellman-Ford | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1916.java)  |
+| 난이도                 | 문제                                                        | 알고리즘               | 풀이                                                                                    |
+|:-------------------:| --------------------------------------------------------- |:------------------:|:-------------------------------------------------------------------------------------:|
+| :white_circle:      | [15650. N과 M(2)](https://www.acmicpc.net/problem/15650)   | 백트래킹               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15650.java) |
+| :white_circle:      | [15652. N과 M(4)](https://www.acmicpc.net/problem/15652)   | 백트래킹               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15652.java) |
+| :white_circle:      | [15654. N과 M (5)](https://www.acmicpc.net/problem/15654)  | 백트래킹               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15654.java) |
+| :white_circle:      | [15657. N과 M (8)](https://www.acmicpc.net/problem/15657)  | 백트래킹               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15657.java) |
+| :white_circle:      | [15663. N과 M (9)](https://www.acmicpc.net/problem/15663)  | 백트래킹               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15663.java) |
+| :white_circle:      | [15666. N과 M (12)](https://www.acmicpc.net/problem/15666) | 백트래킹               | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj15666.java) |
+| :white_circle:      | [1932. RGB거리](https://www.acmicpc.net/problem/1149)       | DP                 | [SOL]()                                                                               |
+| :white_circle:      | [1149. 정수 삼각형](https://www.acmicpc.net/problem/1932)      | DP                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/동적계획법/boj1149.java)   |
+| :white_circle:      | [1692. 곱셈](https://www.acmicpc.net/problem/1629)          | 분할정복, 재귀           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1692.java)  |
+| :white_circle:      | [1991. 트리 순회](https://www.acmicpc.net/problem/1991)       | Binary Tree        | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1991.java)  |
+| :large_blue_circle: | [17144. 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  | 구현                 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj17144.java) |
+| :large_blue_circle: | [1043. 거짓말](https://www.acmicpc.net/problem/1043)         | 그래프, HashSet       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1043.java)  |
+| :large_blue_circle: | [1167. 트리의 지름](https://www.acmicpc.net/problem/1167)      | 그래프, DFS           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1167.java)  |
+| :large_blue_circle: | [1238. 파티](https://www.acmicpc.net/problem/1238)          | Dijkstra           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1238.java)  |
+| :large_blue_circle: | [1504. 특정한 최단 경로](https://www.acmicpc.net/problem/1504)   | Dijkstra           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1238.java)  |
+| :large_blue_circle: | [1918. 후위 표기식](https://www.acmicpc.net/problem/1918)      | Stack              | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1918.java)  |
+| :large_blue_circle: | [1753. 최단경로](https://www.acmicpc.net/problem/1753)        | Dijkstra           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1753.java)  |
+| :large_blue_circle: | [1967. 트리의 지름](https://www.acmicpc.net/problem/1967)      | 그래프, DFS           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1967.java)  |
+| :large_blue_circle: | [1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)    | Dijkstra           | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1916.java)  |
+| :large_blue_circle: | [1865. 웜홀](https://www.acmicpc.net/problem/1865)          | Bellman-Ford       | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj1916.java)  |
+| :white_circle:      | [2407. 조합](https://www.acmicpc.net/problem/2407)          | DP, BigInteger, 조합 | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj2407.java)  |
+| :large_blue_circle: | [9251. LCS](https://www.acmicpc.net/problem/9251)         | 최장 부분 공통 수열, DP    | [SOL](https://github.com/Seoha-Yoon/algorithm/blob/main/boj/src/CLASS4/boj9251.java)  |
 
 ### 
 
