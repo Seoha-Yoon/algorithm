@@ -60,18 +60,19 @@
 
 ### lv3.
 
-| 난이도  | 문제                                                                 | 알고리즘              | 풀이                                                                                   |
-| ---- | ------------------------------------------------------------------ |:-----------------:| ------------------------------------------------------------------------------------ |
-| Lv.3 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/N으로표현.java) |
-| Lv.3 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)   |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/입국심사.java)  |
-| Lv.3 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/정수삼각형.java) |
-| Lv.3 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)   |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/네트워크.java)  |
-| Lv.3 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)    |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/등굣길.java)   |
-| Lv.3 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)  |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/단어변환.java)  |
-| Lv.3 | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/경주로건설.java) |
-| Lv.3 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164#)  | DFS               | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/여행경로.java)  |
-| Lv.3 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579#) | HashMap           | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/베스트앨범.java) |
-| Lv.3 | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)   | Stack, LinkedList | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/표편집.java)   |
+| 난이도  | 문제                                                                    | 알고리즘              | 풀이                                                                                     |
+| ---- | --------------------------------------------------------------------- |:-----------------:| -------------------------------------------------------------------------------------- |
+| Lv.3 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)    |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/N으로표현.java)   |
+| Lv.3 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)      |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/입국심사.java)    |
+| Lv.3 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)    |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/정수삼각형.java)   |
+| Lv.3 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)      |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/네트워크.java)    |
+| Lv.3 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)       |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/등굣길.java)     |
+| Lv.3 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)     |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/단어변환.java)    |
+| Lv.3 | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)    |                   | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/경주로건설.java)   |
+| Lv.3 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164#)     | DFS               | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/여행경로.java)    |
+| Lv.3 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579#)    | HashMap           | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/베스트앨범.java)   |
+| Lv.3 | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)      | Stack, LinkedList | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/표편집.java)     |
+| Lv.3 | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | Tree              | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv3/다단계칫솔판매.java) |
 
 ### lv4.
 
