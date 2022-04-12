@@ -57,6 +57,7 @@
 | Lv.2 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)          | Priority Queue | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/더맵게.java)      |
 | Lv.2 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) | ArrayList      | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/거리두기확인하기.java) |
 | Lv.2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)        | 조합             | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/단체사진찍기.java)   |
+| Lv.2 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)      | BFS            | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/게임맵최단거리.java)  |
 
 ### lv3.
 
