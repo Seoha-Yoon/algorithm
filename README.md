@@ -36,28 +36,29 @@
 
 ### lv2.
 
-| 난이도  | 문제                                                                        | 알고리즘           | 풀이                                                                                      |
-| ---- | ------------------------------------------------------------------------- |:--------------:| --------------------------------------------------------------------------------------- |
-| Lv.2 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)        |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/올바른괄호.java)    |
-| Lv.2 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)          |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/기능개발.java)     |
-| Lv.2 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)         |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/타겟넘버.java)     |
-| Lv.2 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)      |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/짝지어제거하기.java)  |
-| Lv.2 | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)        |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/수식최대화.java)    |
-| Lv.2 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)            |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/튜플.java)       |
-| Lv.2 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)       |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/전화번호목록.java)   |
-| Lv.2 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)        |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/가장큰수.java)     |
-| Lv.2 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)         |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/소수찾기.java)     |
-| Lv.2 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)            |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/위장.java)       |
-| Lv.2 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)       |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/H_Index.java)  |
-| Lv.2 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)            |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/카펫.java)       |
-| Lv.2 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)       |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/큰수만들기.java)    |
-| Lv.2 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)        |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/문자열압축.java)    |
-| Lv.2 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)         |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/오픈채팅방.java)    |
-| Lv.2 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)    | DFS            | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/컬러링북.java)     |
-| Lv.2 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)          | Priority Queue | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/더맵게.java)      |
-| Lv.2 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1) | ArrayList      | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/거리두기확인하기.java) |
-| Lv.2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)        | 조합             | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/단체사진찍기.java)   |
-| Lv.2 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)      | BFS            | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/게임맵최단거리.java)  |
+| 난이도  | 문제                                                                          | 알고리즘           | 풀이                                                                                          |
+| ---- | --------------------------------------------------------------------------- |:--------------:| ------------------------------------------------------------------------------------------- |
+| Lv.2 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)          |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/올바른괄호.java)        |
+| Lv.2 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)            |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/기능개발.java)         |
+| Lv.2 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)           |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/타겟넘버.java)         |
+| Lv.2 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)        |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/짝지어제거하기.java)      |
+| Lv.2 | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)          |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/수식최대화.java)        |
+| Lv.2 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)              |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/튜플.java)           |
+| Lv.2 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)         |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/전화번호목록.java)       |
+| Lv.2 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)          |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/가장큰수.java)         |
+| Lv.2 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)           |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/소수찾기.java)         |
+| Lv.2 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)              |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/위장.java)           |
+| Lv.2 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)         |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/H_Index.java)      |
+| Lv.2 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)              |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/카펫.java)           |
+| Lv.2 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)         |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/큰수만들기.java)        |
+| Lv.2 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)          |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/문자열압축.java)        |
+| Lv.2 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)           |                | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/오픈채팅방.java)        |
+| Lv.2 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)      | DFS            | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/컬러링북.java)         |
+| Lv.2 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)            | Priority Queue | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/더맵게.java)          |
+| Lv.2 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302#fn1)   | ArrayList      | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/거리두기확인하기.java)     |
+| Lv.2 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)          | 조합             | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/단체사진찍기.java)       |
+| Lv.2 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)        | BFS            | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/게임맵최단거리.java)      |
+| Lv.2 | [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 문자열            | [JAVA](https://github.com/Seoha-Yoon/algorithm/blob/main/programmers/lv2/k진수에서소수개수구하기.java) |
 
 ### lv3.
 
